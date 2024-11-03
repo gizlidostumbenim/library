@@ -44,7 +44,7 @@ local a,b={{1,'ModuleScript',{'MainModule'},{{18,'ModuleScript',{'Creator'}},{28
     SubText = Color3.fromRGB(170, 170, 170),
     Hover = Color3.fromRGB(0, 255, 0),
     HoverChange = 0.04
-}
+},
 {Name = 'Aqua',
     Accent = Color3.fromRGB(60, 165, 165),
     AcrylicMain = Color3.fromRGB(20, 20, 20),
@@ -80,7 +80,7 @@ local a,b={{1,'ModuleScript',{'MainModule'},{{18,'ModuleScript',{'Creator'}},{28
     SubText = Color3.fromRGB(170, 170, 170),
     Hover = Color3.fromRGB(110, 160, 160),
     HoverChange = 0.04
-}
+},
 {Name = 'Dark',
     Accent = Color3.fromRGB(0, 255, 0),
     AcrylicMain = Color3.fromRGB(60, 60, 60),
@@ -116,7 +116,7 @@ local a,b={{1,'ModuleScript',{'MainModule'},{{18,'ModuleScript',{'Creator'}},{28
     SubText = Color3.fromRGB(170, 170, 170),
     Hover = Color3.fromRGB(0, 255, 0),
     HoverChange = 0.07
-}
+},
 {Name = 'Darker',
     Accent = Color3.fromRGB(72, 138, 182),
     AcrylicMain = Color3.fromRGB(30, 30, 30),
@@ -140,7 +140,7 @@ local a,b={{1,'ModuleScript',{'MainModule'},{{18,'ModuleScript',{'Creator'}},{28
     DialogBorder = Color3.fromRGB(50, 50, 50),
     DialogInput = Color3.fromRGB(45, 45, 45),
     DialogInputLine = Color3.fromRGB(0, 255, 0)
-}
+},
 {Name = 'Light',
     Accent = Color3.fromRGB(0, 103, 192),
     AcrylicMain = Color3.fromRGB(200, 200, 200),
@@ -177,3 +177,4 @@ local a,b={{1,'ModuleScript',{'MainModule'},{{18,'ModuleScript',{'Creator'}},{28
     Hover = Color3.fromRGB(50, 50, 50),
     HoverChange = 0.16
 }
+end
